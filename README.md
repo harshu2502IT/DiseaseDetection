@@ -1,2 +1,2 @@
-# DiseaseDetection
-<h5>This is my 2nd year project called "Holistic disease management system for organic farming." It helps farmers detect and manage crop diseases naturally using expert advice, image uploads, and research-based solutions.</h1> 
+# ROOM BOOKING
+<h5> This is my 2nd year collage project. A responsive Hotel Room Booking Management System built with HTML, CSS, JavaScript, and PHP. It features user registration, login, room selection, and a session-based cart system for seamless booking management.</h1> 
